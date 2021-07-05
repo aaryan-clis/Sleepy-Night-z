@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+a{
+    color: aliceblue;
+}
+h1{
+    color:#20c997 ;
+    font-style: bold;
+    font-size: 55px;
+    text-align: center;
+   background-color: dimgrey;
+
+}
+.navbar ul{
+    list-style: none;
+  
+    padding: 0px;
+    margin: 0px;
+}
+.navbar li {
+    display: inline-block;
+}
+.navbar a {
+    text-decoration: none;
+    color: darkturquoise;
+    width: 100%;
+    display: block;
+    padding: 25px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: arial;
+}    
+h2{
+    font-size: 55px;
+    color: #B0C4DE;
+    background-color: mediumseagreen;
+}
+h3{
+    font-size: 35px;
+    background-color: #20c997;
+    color: aliceblue;
+}
+h4{
+    font-size: 38px;
+    background-color: cadetblue;
+    color: aliceblue;
+}
